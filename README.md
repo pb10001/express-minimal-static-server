@@ -5,13 +5,13 @@ Node.js/npm
 ## 使い方
 ### サンプルを動かす
 ```Shell
-//リポジトリをクローン
+# リポジトリをクローン
 git clone https://github.com/pb10001/express-minimal-static-server.git
-//パッケージをインストール
+# パッケージをインストール
 npm install
-//サーバーをスタート
+# サーバーをスタート
 npm start
-//ブラウザでlocalhost:3000にアクセス
+# ブラウザでlocalhost:3000にアクセス
 ```
 ### ファイルを追加
 クライアントからは`public`フォルダ以下に配置したファイルにアクセスできます。
